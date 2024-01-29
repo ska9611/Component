@@ -1,0 +1,7 @@
+.input-container {
+  margin-bottom: 10px; /* ID와 input 박스 사이의 간격을 조정합니다. */
+}
+
+.input-field {
+  margin-left: 15px; /* input 박스의 왼쪽 간격을 조정합니다. */
+}
